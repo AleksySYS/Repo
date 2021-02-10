@@ -1,9 +1,22 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  7 10:17:46 2021
+class Vehicle:
+    
+    
+    def __init__(self):
+        self.color()
+        self.mark()
+        self.type_of_car()
 
-@author: 48695
-"""
-
-# commit update
-
+    def color(self):
+        self.color = "Brown"
+        print(f'Color of vehicle is: {self.color}')
+        
+    def mark(self):
+        self.mark = "Audi"
+        print(f'Mark of this car is: {self.mark}')
+        
+    def type_of_car(self):
+        self.type_of_car = "Hatchback"
+        print(f'Type of the car is: {self.type_of_car}')
+        
+Vehicle()
+    
