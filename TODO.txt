@@ -1,9 +1,0 @@
-1. Zadania sda_exercises_oop_1_mz - zrobić pytest do check_area
-2. Zadania sda_exercises_oop_2_mz - ZAD.DOM
-3. Zadania serialize_1_mz - zadania 5-12 ZAD DOM
-4. Zadania sda_exercises_oop_3_mz - ZAD.DOM
-Na kolejnych zajęciach:
-5. Context Manager -> ma związek z with
-6. Dekoratory
-7. Lambda
-8. Generatory
